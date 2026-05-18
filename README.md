@@ -26,7 +26,7 @@ L’analyse a permis de mettre en évidence plusieurs informations importantes:
 
 - Décembre est le mois avec le chiffre d’affaires le plus élevé.
 - San Francisco est la ville la plus performante en termes de ventes.
-- Les ventes augmentent surtout entre 10h–11h et 18h–19h, ce qui représente les meilleurs créneaux pour les campagnes marketing.
+- Les ventes augmentent surtout entre 10h-11h et 18h-19h, ce qui représente les meilleurs créneaux pour les campagnes marketing.
 - Certains produits sont souvent achetés ensemble, ce qui peut aider à proposer des offres groupées.
 - Les produits les plus vendus et les plus rentables ont pu être identifiés.
 ### Valeur apportée:
